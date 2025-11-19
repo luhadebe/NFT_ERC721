@@ -1,0 +1,11 @@
+{
+  "name": "Pitbull",
+  "description": "An NFT stored with Pinata on IPFS.",
+  "image": "https://copper-accepted-angelfish-513.mypinata.cloud/ipfs/bafkreihsqrcr5r3l366xjseux2uiaanq3qfdyckx22qmpguizyg6gtouvy?filename=0.webp",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
